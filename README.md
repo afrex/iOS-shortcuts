@@ -30,4 +30,4 @@ Easily convert your video to gif.
 ![](videotogif.jpg)
 
 ### Installation
-Click [here](Convert%20Video%20To%20Gif.shortcut?raw=true) to install.
+Click [here](Convert%20Video%20To%20GIF.shortcut?raw=true) to install.
