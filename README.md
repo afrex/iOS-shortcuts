@@ -9,6 +9,9 @@ A collection of shortcuts for the [Apple Shortcuts app](https://itunes.apple.com
 
 #### Third party
 - [Convert Video To Gif](#convert-video-to-gif)
+- [IP Info](#ip-info)
+
+---
 
 # Handy dandy
 
@@ -25,6 +28,8 @@ This Shortcut will enable you to quickly look up prices for products via [tweake
 ### Installation
 Click [here](shortcuts/Tweakers%20pricewatch.shortcut?raw=true) to install.
 
+---
+
 # Miscellaneous
 
 ## Nicolas Cage Mania
@@ -39,6 +44,8 @@ This Shortcut will replace all images in your Safari webpage with Mr Nicolas Cag
 
 ### Installation
 Click [here](shortcuts/Nicolas%20Cage.shortcut?raw=true) to install.
+
+---
 
 # Third party
 [back to top](#readme) 
