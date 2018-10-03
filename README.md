@@ -1,16 +1,16 @@
 # iOS Siri Shortcuts
 A collection of shortcuts for the [Shortcuts app](https://itunes.apple.com/us/developer/apple/id642218247?mt=8).
 
-## Nicolase Cage Mania
+## Nicolas Cage Mania
 ### Description
-This Shortcut will replace all images in your Safari webpage with Mr Nicolase Cage.
+This Shortcut will replace all images in your Safari webpage with Mr Nicolas Cage.
 
 ![](nicolas.jpg)
 
 ![](nicolas.GIF)
 
 ### Installation
-Click [here](Nicolas%20Cage.shortcut) to install.
+Click [here](Nicolas%20Cage.shortcut?raw=true) to install.
 
 ## Tweakers Pricewatch
 ### Description
@@ -21,4 +21,4 @@ This Shortcut will enable you to quickly look up prices for products via [tweake
 ![](images/pricewatch.GIF)
 
 ### Installation
-Click [here](Tweakers%20pricewatch.shortcut) to install.
+Click [here](Tweakers%20pricewatch.shortcut?raw=true) to install.
