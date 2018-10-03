@@ -5,7 +5,7 @@ A collection of shortcuts for the [Shortcuts app](https://itunes.apple.com/us/de
 ### Description
 This Shortcut will replace all images in your Safari webpage with Mr Nicolase Cage.
 
-![](nicolas.IMG)
+![](nicolas.jpg)
 
 ![](nicolas.GIF)
 
