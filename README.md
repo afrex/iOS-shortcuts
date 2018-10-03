@@ -67,7 +67,7 @@ Click [here](shortcuts/Convert%20Video%20To%20GIF.shortcut?raw=true) to install.
 <!-- <img src="assets/videotogif.jpg?raw=true" height="100"> -->
 
 ### Description
-Get your device IP information
+Get your device Internal/External IP info
 
 ### Installation
 Click [here](shortcuts/IP%20Info.shortcut?raw=true) to install.
