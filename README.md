@@ -3,17 +3,13 @@ A collection of shortcuts for the [Apple Shortcuts app](https://itunes.apple.com
 
 #### Handy dandy
 - [Tweakers Pricewatch - Dutch](#tweakers-pricewatch)
+- [Convert Video To Gif](#convert-video-to-gif)
+- [IP Info](#ip-info)
 
 #### Miscellaneous
 - [Nicolas Cage Mania](#nicolas-cage-mania)
 
-#### Third party
-- [Convert Video To Gif](#convert-video-to-gif)
-- [IP Info](#ip-info)
-
 ---
-
-# Handy dandy
 
 ## Tweakers Pricewatch
 [back to top](#readme) 
@@ -30,7 +26,31 @@ Click [here](shortcuts/Tweakers%20pricewatch.shortcut?raw=true) to install.
 
 ---
 
-# Miscellaneous
+## Convert Video To Gif
+[back to top](#readme) 
+
+<img src="assets/videotogif.jpg?raw=true" height="100">
+
+### Description
+Easily convert your video to gif.
+
+### Installation
+Click [here](shortcuts/Convert%20Video%20To%20GIF.shortcut?raw=true) to install.
+
+---
+
+## IP Info
+[back to top](#readme) 
+
+<!-- <img src="assets/videotogif.jpg?raw=true" height="100"> -->
+
+### Description
+Get your device Internal/External IP info
+
+### Installation
+Click [here](shortcuts/IP%20Info.shortcut?raw=true) to install.
+
+---
 
 ## Nicolas Cage Mania
 [back to top](#readme) 
@@ -47,27 +67,3 @@ Click [here](shortcuts/Nicolas%20Cage.shortcut?raw=true) to install.
 
 ---
 
-# Third party
-[back to top](#readme) 
-
-## Convert Video To Gif
-[back to top](#readme) 
-
-<img src="assets/videotogif.jpg?raw=true" height="100">
-
-### Description
-Easily convert your video to gif.
-
-### Installation
-Click [here](shortcuts/Convert%20Video%20To%20GIF.shortcut?raw=true) to install.
-
-## IP Info
-[back to top](#readme) 
-
-<!-- <img src="assets/videotogif.jpg?raw=true" height="100"> -->
-
-### Description
-Get your device Internal/External IP info
-
-### Installation
-Click [here](shortcuts/IP%20Info.shortcut?raw=true) to install.
